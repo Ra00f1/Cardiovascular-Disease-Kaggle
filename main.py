@@ -1,3 +1,5 @@
+#oguzhan deneme test
+
 import sklearn.linear_model as lm
 import pandas as pd
 import seaborn as sns
